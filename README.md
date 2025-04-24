@@ -5,6 +5,9 @@ An interactive and visually appealing Rock Paper Scissors game built with HTML, 
 ---
 ## [🎮 Play Online ](https://jijan67.github.io/Rock-Paper-Scissors-Game/)
 ---
+---
+[![Download](https://img.shields.io/badge/Download-APK-blue.svg?style=flat&logo=android)](https://drive.google.com/file/d/1CoWINLaJ3eBpe6xppAPKIEMtOEkJhFF8/view?usp=sharing)
+---
 
 ## ✨ Features
 
