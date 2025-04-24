@@ -3,7 +3,7 @@
 An interactive and visually appealing Rock Paper Scissors game built with HTML, CSS, and JavaScript. This game offers both player vs computer and player vs player modes with a modern UI and engaging animations.
 
 ---
-## [🎮 Play Online ](https://jijan67.github.io/Animated-Tic-Tac-Toe-Game/)
+## [🎮 Play Online ](https://jijan67.github.io/Rock-Paper-Scissors-Game/)
 ---
 
 ## ✨ Features
