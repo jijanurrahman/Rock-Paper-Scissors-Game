@@ -3,7 +3,7 @@
 An interactive and visually appealing Rock Paper Scissors game built with HTML, CSS, and JavaScript. This game offers both player vs computer and player vs player modes with a modern UI and engaging animations.
 
 ---
-## [🎮 Play Online ](https://jijan67.github.io/Rock-Paper-Scissors-Game/)
+## [🎮 Play Online ](https://jijanurrahman.github.io/Rock-Paper-Scissors-Game/)
 ---
 [![Download](https://img.shields.io/badge/Download-APK-blue.svg?style=flat&logo=android)](https://drive.google.com/file/d/1CoWINLaJ3eBpe6xppAPKIEMtOEkJhFF8/view?usp=sharing)
 ---
